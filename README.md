@@ -4,5 +4,6 @@
 
 ### More About Me
 
-Skills: C#, .NET Core, ASP.NET Core
+- :star:	Skills : C#, .NET Core, ASP.NET Core
+
 More Coming soon...
