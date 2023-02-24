@@ -4,4 +4,5 @@
 
 ### More About Me
 
-Coming soon...
+Skills: C#, .NET Core, ASP.NET Core
+More Coming soon...
